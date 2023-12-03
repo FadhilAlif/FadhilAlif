@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Agriplant (Agriculture App)](https://agriculture-react.vercel.app/)
 
-- 🌱 I’m currently learning **React JS, Vue, Tailwind**
+- 🌱 I’m currently learning **React JS, Vue, Tailwind, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/fadhilalifs-projects](https://vercel.com/fadhilalifs-projects)
 
