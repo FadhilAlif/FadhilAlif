@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Vue, Tailwind, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/fadhilalifs-projects](https://vercel.com/fadhilalifs-projects)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/FadhilAlifP](https://linktr.ee/FadhilAlifP)
 
 - 💬 Ask me about **HTML, CSS, React, Bootstrap**
 
