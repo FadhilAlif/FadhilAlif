@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Agriplant (Agriculture App)](https://agriculture-react.vercel.app/)
 
-- 🌱 I’m currently learning **React JS, Vue, Tailwind, TypeScript**
+- 🌱 I’m currently learning **Vue, Tailwind, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/FadhilAlifP](https://linktr.ee/FadhilAlifP)
 
-- 💬 Ask me about **HTML, CSS, React, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap**
 
 - 📫 How to reach me **fadhil.alifp@gmail.com**
 
