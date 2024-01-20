@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fadhil Alif</h1>
-<h3 align="center">A passionate frontend developer from Yogyakarta</h3>
+<h3 align="center">A passionate Front-End Developer from Yogyakarta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilalif&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilalif" /> </p>
 
-- 🔭 I’m currently working on [Agriplant (Agriculture App)](https://agriculture-react.vercel.app/)
+- 🔭 I’m currently doing internship at [Telkom Indonesia]([https://agriculture-react.vercel.app/](https://www.linkedin.com/company/telekomunikasi-indonesia/))
 
 - 🌱 I’m currently learning **Vue, Tailwind, TypeScript**
 
