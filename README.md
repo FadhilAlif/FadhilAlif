@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilalif&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilalif" /> </p>
 
-- 🔭 I’m currently doing internship MSIB 6 Kampus Merdeka at [Telkom Indonesia](https://www.linkedin.com/company/telekomunikasi-indonesia/)
+- 🔭 I’m currently doing internship MSIB 6 at [Telkom Indonesia (Bandung)](https://www.linkedin.com/company/telekomunikasi-indonesia/)
 
-- 🌱 I’m currently learning **Vue, Tailwind, TypeScript**
+- 🌱 I’m currently learning **Zustand, TypeScript, Nest**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/FadhilAlifP](https://linktr.ee/FadhilAlifP)
 
