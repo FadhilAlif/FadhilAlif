@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilalif&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilalif" /> </p>
 
-- 🔭 I’m currently doing internship MSIB 6 at [Telkom Indonesia (Bandung)](https://www.linkedin.com/company/telekomunikasi-indonesia/)
+- 🔭 I’m currently at 8 semester )
 
 - 🌱 I’m currently learning **Zustand, TypeScript, Nest**
 
