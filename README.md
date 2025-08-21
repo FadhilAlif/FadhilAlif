@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Alif</h1>
-<h3 align="center">A passionate Front-End Developer from Yogyakarta</h3>
+<h3 align="center">A passionate Developer from Yogyakarta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilalif&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilalif" /> </p>
 
