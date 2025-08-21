@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilalif&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilalif" /> </p>
 
-- 🔭 I’m currently at 8 semester
+- 🔭 I’m currently work at Telkomsigma as Junior Programmer
 
-- 🌱 I’m currently learning **Zustand, TypeScript, Nest**
+- 🌱 I’m currently learning **Golang and Next**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/FadhilAlifP](https://linktr.ee/FadhilAlifP)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, TailwindCss**
 
 - 📫 How to reach me **fadhil.alifp@gmail.com**
 
