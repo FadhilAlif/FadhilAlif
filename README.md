@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilalif&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilalif" /> </p>
 
-- 🔭 I’m currently work at Telkomsigma as Junior Programmer
+- 🔭 I’m currently work at Telkomsigma as Fullstack Engineer
 
 - 🌱 I’m currently learning **Golang and Next**
 
