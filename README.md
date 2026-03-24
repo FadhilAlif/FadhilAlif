@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently work at Telkomsigma as Fullstack Engineer
 
-- 🌱 I’m currently learning **Golang and Next**
+- 🌱 I’m currently learning **Golang and Nest**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/FadhilAlifP](https://linktr.ee/FadhilAlifP)
+- 👨‍💻 All of my projects are available at [http://fadhildev.my.id/](http://fadhildev.my.id/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, TailwindCss**
+- 💬 Ask me about JavaScript, TypeScript, React, Vue, Flutter, etc**
 
 - 📫 How to reach me **fadhil.alifp@gmail.com**
 
